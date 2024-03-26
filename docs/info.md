@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+I need to figure out the smallest functional CPU that can fit in one tile.
 
 ## How to test
 
-Explain how to use your project
+I will write some tests later....
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+External Memory TBD.
